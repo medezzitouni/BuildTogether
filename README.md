@@ -1,5 +1,5 @@
 # BuildTogether
-An open-source project aims to give people the opportunity to work together under a team where they can learn from each other, and get their skills to a high level, and also to get used to the team spirit that they will need when they reach a job. // remember we are here to learn from our failures
+An open-source project aims to give people the opportunity to work together under a team where they can learn from each other, and get their skills to a high level, and also get used to the team spirit that they will need when they reach a job. // remember we are here to learn from our failures
 
 # What's the project Idea?
 
