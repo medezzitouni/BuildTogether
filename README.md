@@ -27,9 +27,9 @@ Hi bruh, thank you for reaching this part we appreciate that. to contribute to t
 
 2- Make sure that u r in master branch then pull and fetch the master branch.                                                                                     
      command lines -> git branch ( it gives u the branch which where u r ).                                                                                       
-                      git checkout master ( switch to the master branch ).                                                                                         
-                      git fetch.                                                                                                                                   
-                      git pull -u origin master  ( Update ur local master to move on).                                                                             
+                   -> git checkout master ( switch to the master branch ).                                                                                         
+                   -> git fetch.                                                                                                                                   
+                   -> git pull -u origin master  ( Update ur local master to move on).                                                                             
 
 3- Then create a branch has the same name of the issue.                                                                                                           
    make sure u r in the master branch (that's important, if u create a branch based on other branch instead 
