@@ -26,10 +26,10 @@ Hi bruh, thank you for reaching this part we appreciate that. to contribute to t
 1-  First of all, u have to take a look at the Issues section in order to have an idea about the issue which was assigned to u.
 
 2- Make sure that u r in master branch then pull and fetch the master branch.                                                                                     
-     command lines -> git branch ( it gives u the branch which where u r ). 
-                      git checkout master ( switch to the master branch ).  
-                      git fetch. 
-                      git pull -u origin master  ( Update ur local master to move on). 
+     command lines -> git branch ( it gives u the branch which where u r ).                                                                                       
+                      git checkout master ( switch to the master branch ).                                                                                         
+                      git fetch.                                                                                                                                   
+                      git pull -u origin master  ( Update ur local master to move on).                                                                             
 
 3- Then create a branch has the same name of the issue.                                                                                                           
    make sure u r in the master branch (that's important, if u create a branch based on other branch instead 
@@ -43,7 +43,7 @@ Hi bruh, thank you for reaching this part we appreciate that. to contribute to t
 4.3- Also if u feel that the process is in progress, it would be better if u move it from the ToDo column to the In progress column, so we know that all is fine with u.                                                                                                                                                           
 
 5- After doing ur magic, push the branch to the repo, so we can test it and merge it to the master.                                                               
-      command lines -> git push -u origin ur_github_username/branchName                                                                                                                        
+         command lines -> git push -u origin ur_github_username/branchName                                                                                                                        
    the last thing comment the name of the branch on the issue post.                                      
    
    # Thank you all
