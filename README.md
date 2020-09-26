@@ -25,19 +25,12 @@ Hi bruh, thank you for reaching this part we appreciate that. to contribute to t
 
 1-  First of all, u have to take a look at the Issues section in order to have an idea about the issue which was assigned to u.
 
-<<<<<<< HEAD
-2- Make sure that u r in master branch then pull and fetch the master branch.                              
-     command lines -> git branch ( it gives u the branch which where u r ).                                                 
-                   -> git checkout master ( switch to the master branch .                                             
-                   -> git fetch.                                                                                                
-                   -> git pull -u origin master  ( Update ur local master to move on).                                   
-=======
+
 2- Make sure that u r in master branch then pull and fetch the master branch.                                                                                     
      command lines -> git branch ( it gives u the branch which where u r ).                                                                                       
                    -> git checkout master ( switch to the master branch ).                                                                                         
                    -> git fetch.                                                                                                                                   
                    -> git pull -u origin master  ( Update ur local master to move on).                                                                             
->>>>>>> 03fc5480c9ec1d53bb4231117f20aed902bd103a
 
 3- Then create a branch has the same name of the issue.                                                                        
    make sure u r in the master branch (that's important, if u create a branch based on other branch instead 
