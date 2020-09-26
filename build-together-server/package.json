@@ -1,0 +1,15 @@
+{
+  "name": "build-together-server",
+  "version": "1.0.0",
+  "description": "the backend of the BuildTogether project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Med Ezzitouni",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}

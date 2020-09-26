@@ -1,0 +1,28 @@
+.DS_Store
+build-together-server/node_modules
+build-together-public/node_modules
+build-together-server/dist
+node_modules
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+build-together-server/npm-debug.log*
+build-together-server/yarn-debug.log*
+build-together-server/yarn-error.log*
+build-together-server/pnpm-debug.log*
+build-together-public/npm-debug.log*
+build-together-public/yarn-debug.log*
+build-together-public/yarn-error.log*
+build-together-public/pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
