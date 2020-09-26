@@ -11,5 +11,5 @@ app.set('hostname', hostname)
 
 const server = http.createServer(app)
 
-server.listen(port, hostname, () => console.log(
-     `${'<'.repeat(10)} server is runing at http://${hostname}:${port} ${'>'.repeat(10)} `))
+server.listen(port, hostname, () => 
+console.log(`${'<'.repeat(10)} server is runing at http://${hostname}:${port} ${'>'.repeat(10)} `))

@@ -1,4 +1,4 @@
-# build-together-frontend
+# build-together-public
 
 ## Project setup
 ```
