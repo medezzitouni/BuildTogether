@@ -47,4 +47,5 @@ Hi bruh, thank you for reaching this part we appreciate that. to contribute to t
          command lines -> git push -u origin ur_github_username/branchName                                                         
    the last thing comment the name of the branch on the issue post.                                      
    
+# Note that this is just the first project, we are aiming to put devs and designers on a lot of other really interesting projects.
    # Thank you all
