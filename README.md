@@ -16,7 +16,10 @@ Note: we can accept any Node.js dependency, it just has to fit our project.
 
 Hi bruh, thank you for reaching this part we appreciate that. to contribute to this project u've got two ways.
 
-1- If you have an idea that you wanna add to this project, just let us know by adding it in the Issues section, we will review it and let u know if it gets accepted or not in the comments below the issue.                                                                                                                 2- If you wanna face new challenges and do new tasks that might be hard to you, in order to learn new stuff from that, add that in the Issues section, we will try to get you on the road and assign to you good tasks based on your level.  
+1- If you have an idea that you wanna add to this project, just let us know by adding it in the Issues section, we will review it and let u know if it gets accepted or not in the comments below the issue.                                                                                                                 
+
+
+2- If you wanna face new challenges and do new tasks that might be hard to you, in order to learn new stuff from that, add that in the Issues section, we will try to get you on the road and assign to you good tasks based on your level.  
 
 
 
