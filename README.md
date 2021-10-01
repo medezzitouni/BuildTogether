@@ -5,7 +5,7 @@ An open-source project aims to give people the opportunity to work together unde
 
 It's a secure vote web App, where people can vote, it's simple as it's.
 
-# what tech are we gon use?
+# what tech are we going to use?
 
 The project is a web App. first of all, we are implementing the clean architectue, the reason why -> just google it mate. 
 so we will use a javascript framewok for the frontend, it's gon'be Vue (https://vuejs.org/v2/guide/), cuz it's simple to use, and node.js&Express.js for the backend (https://nodejs.org/en/docs/). for the vote encryption, we will use kbpgp.js (https://book.keybase.io/guides/pgp-in-javascript)
